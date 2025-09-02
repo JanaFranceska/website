@@ -1,22 +1,21 @@
 ---
-title: FLINTA* Und Computer Kram (F.U.C.K)
-slug: fuck
+title: FRAUEN* IT & MAKEN
+slug: FUCK
 menu: 
   main:
-    title: 'FLINTA* Und Computer Kram (F.U.C.K)'
+    title: 'FRAUEN* IT & MAKEN'
     parent: groups
 type: page
 featured_image: /wp-content/uploads/2024/03/monatsbericht-fuck2.jpeg
 ---
 
-F.U.C.K. – FLINTA* und Computer Kram – richtet sich an alle Frauen, Lesben, Intergeschlechtliche, nichtbinäre, trans und agender Personen, die sich für Computer, Hardware, Hacken, Basteln, Coden, Löten und allen anderen ähnlichen Kram interessieren.
+FRAUEN* IT & MAKEN ist eine offene Veranstaltung für Frauen*, trans*, inter* und nicht-binäre Personen, die sich für IT, Technik, DIY und kreatives MAKEN interessieren. 
+In einer geschützten, gemeinschaftlichen Atmosphäre bietet wir Raum für Austausch, gemeinsames Lernen und die Arbeit an eigenen Projekten – egal ob Programmieren, Löten, 3D-Drucken, Lasercutten oder andere Making-Ideen. Anfänger*innen sind ebenso willkommen wie Fortgeschrittene.
 
-Inspiriert von Heart of Code und dem [CCC München](https://wiki.muc.ccc.de/fuck-muc) wollen auch wir einen Raum schaffen, in dem sich FLINTA* frei von Ängsten und Vorurteilen über Computer Kram austauschen und lernen können – egal ob du noch ganz am Anfang stehst, oder schon mittendrin bist, du bist herzlich willkommen! 
+Gelegentlich finden parallel zum offenen Treffen **Workshops** zu verschiedenen Themen statt. Welcher Workshop als nächstes stattfindet und ob eine Anmeldung nötig ist lässt sich am besten über den Kalender (Beschreibung der Gruppe) herausfinden :) 
 
-Wir treffen uns ab 07. Januar 2024 wieder regelmäßig, ein Blick [in den Kalender](/termine-und-oeffnungszeiten/) schadet also nicht :)
+Komm gerne einfach zu einem unserer Treffen! Alternativ kannst du dich auch per Mail an Jana und Sabrina unter **fuck (at) temporaerhaus.de** wenden!
 
-Gelegentlich finden parallel zum offenen Treffen **Workshops** zu verschiedenen Themen statt. Welcher Workshop als nächstes stattfindet und ob eine Anmeldung nötig ist (eigentlich nur, wenn wir Hardware kaufen müssen oder die Plätze aus irgendwelchen Gründen begrenzt sind) lässt sich am besten über den Kalender herausfinden :) Beschreibung der Gruppe
+Wir treffen uns am ersten Donnerstag im Monat ab 18 Uhr, ein Blick [in den Kalender](/termine-und-oeffnungszeiten/) schadet trotzdem nicht :)
 
-Komm gerne einfach zu einem unserer Treffen! Alternativ kannst du dich auch per Mail an Jana, Sabrina und Mary unter **fuck (at) temporaerhaus.de** wenden!
-
-Wir freuen uns auf dich! :)
+Wir freuen uns auf dich!
